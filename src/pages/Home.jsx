@@ -11,7 +11,7 @@ const Home = () => {
             Choose your favorite toppings and create a delicious masterpiece.
           </p>
           <a
-            href="#"
+            href="/pizzacrafty/customize"
             className="mt-8 inline-block bg-yellow-500 text-gray-900 hover:bg-yellow-400 px-6 py-3 rounded-full text-lg font-semibold"
           >
             Start Customizing
