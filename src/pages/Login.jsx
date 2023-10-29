@@ -66,9 +66,7 @@ const Login = () => {
       }}
     >
       <div className="bg-black/75 backdrop-blur-md rounded-lg p-8 w-full md:w-96 text-center shadow-lg text-sm">
-        <h2 className="text-2xl text-[#FF5733] font-bold mb-6 text-white">
-          Login
-        </h2>
+        <h2 className="text-2xl font-bold mb-6 text-white">Login</h2>
         <form>
           <div className="mb-3">
             <input
